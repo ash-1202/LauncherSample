@@ -1,0 +1,3 @@
+include ':LauncherUtility'
+include ':app'
+rootProject.name = "TesseractLauncher"
